@@ -1,0 +1,13 @@
+PySide6
+claude-agent-sdk
+faster-whisper
+sounddevice
+numpy
+mss
+Pillow
+winrt-runtime
+winrt-Windows.Foundation
+winrt-Windows.Media.SpeechSynthesis
+winrt-Windows.Storage.Streams
+psutil
+edge-tts

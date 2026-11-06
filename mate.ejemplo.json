@@ -1,0 +1,18 @@
+{
+  "nombre": "",
+  "altavoz": "",
+  "apps": [
+    "Google Chrome",
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Visual Studio Code"
+  ],
+  "webs": {
+    "Google": "https://www.google.com",
+    "YouTube": "https://www.youtube.com",
+    "Gmail": "https://mail.google.com",
+    "Maps": "https://maps.google.com",
+    "Traductor": "https://translate.google.com"
+  }
+}

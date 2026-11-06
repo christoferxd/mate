@@ -1,0 +1,9 @@
+# Entorno y archivos generados
+.venv/
+__pycache__/
+
+# Datos personales: no se suben
+mate.json
+mate.log
+memoria.json
+notas.txt
