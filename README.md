@@ -1,7 +1,7 @@
 # Mate
 
 Asistente de voz a pantalla completa para Windows. El cerebro es Claude, con tu sesión de Claude
-(sin clave de API). Se llama Mate como la moto.
+(sin clave de API). Se llama Mate
 
 ## Arrancar
 
